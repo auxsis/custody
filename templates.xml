@@ -101,7 +101,6 @@
         <record id="custody_custody_action" model="ir.actions.act_window">
             <field name="name">Custody</field>
             <field name="res_model">custody.custody</field>
-            <field name="view_type">form</field>
             <field name="view_mode">tree,pivot,form,graph</field>
         </record>
 
@@ -226,7 +225,6 @@
         <record id="equipment_category_action" model="ir.actions.act_window">
             <field name="name">Equipment Category</field>
             <field name="res_model">equipment.category</field>
-            <field name="view_type">form</field>
             <field name="view_mode">tree,form</field>
         </record>
 
@@ -269,7 +267,6 @@
         <record id="equipment_category_action" model="ir.actions.act_window">
             <field name="name">Equipment Category</field>
             <field name="res_model">equipment.category</field>
-            <field name="view_type">form</field>
             <field name="view_mode">tree,form</field>
         </record>
 
@@ -281,7 +278,6 @@
         <record id="equipment_item_action" model="ir.actions.act_window">
             <field name="name">Equipment Item</field>
             <field name="res_model">equipment.item</field>
-            <field name="view_type">form</field>
             <field name="view_mode">tree,form</field>
         </record>
 
